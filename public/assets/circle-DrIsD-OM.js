@@ -1,0 +1,1 @@
+import{m as e}from"./index-CyqkXjv1.js";var t={name:`check`,size:24,node:[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]};t.node;var n=e(t),r={name:`circle`,size:24,node:[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]]};r.node;var i=e(r);export{n,i as t};
